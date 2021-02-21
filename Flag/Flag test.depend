@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1612660548 source:d:\codeblocks files\flag test\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
+1433670714 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1490206725 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1493182202 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1612660801 source:d:\codeblocks files\flag\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
